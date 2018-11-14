@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\julek\Desktop\Poli\Kompo\Zadania\Projekt\prokom07\Model\src\main\java\sudoku\BacktrackingSudokuSolver.java">
+</file>
+<file name="C:\Users\julek\Desktop\Poli\Kompo\Zadania\Projekt\prokom07\Model\src\main\java\sudoku\Dao.java">
+</file>
+<file name="C:\Users\julek\Desktop\Poli\Kompo\Zadania\Projekt\prokom07\Model\src\main\java\sudoku\DataBaseException.java">
+</file>
+<file name="C:\Users\julek\Desktop\Poli\Kompo\Zadania\Projekt\prokom07\Model\src\main\java\sudoku\DifficultLevel.java">
+</file>
+<file name="C:\Users\julek\Desktop\Poli\Kompo\Zadania\Projekt\prokom07\Model\src\main\java\sudoku\FileNotFound.java">
+</file>
+<file name="C:\Users\julek\Desktop\Poli\Kompo\Zadania\Projekt\prokom07\Model\src\main\java\sudoku\FileSudokuBoardDao.java">
+</file>
+<file name="C:\Users\julek\Desktop\Poli\Kompo\Zadania\Projekt\prokom07\Model\src\main\java\sudoku\JdbcSudokuBoardDao.java">
+</file>
+<file name="C:\Users\julek\Desktop\Poli\Kompo\Zadania\Projekt\prokom07\Model\src\main\java\sudoku\SudokuBoard.java">
+</file>
+<file name="C:\Users\julek\Desktop\Poli\Kompo\Zadania\Projekt\prokom07\Model\src\main\java\sudoku\SudokuBoardDaoFactory.java">
+</file>
+<file name="C:\Users\julek\Desktop\Poli\Kompo\Zadania\Projekt\prokom07\Model\src\main\java\sudoku\SudokuBox.java">
+</file>
+<file name="C:\Users\julek\Desktop\Poli\Kompo\Zadania\Projekt\prokom07\Model\src\main\java\sudoku\SudokuCheck.java">
+</file>
+<file name="C:\Users\julek\Desktop\Poli\Kompo\Zadania\Projekt\prokom07\Model\src\main\java\sudoku\SudokuColumn.java">
+</file>
+<file name="C:\Users\julek\Desktop\Poli\Kompo\Zadania\Projekt\prokom07\Model\src\main\java\sudoku\SudokuDaoException.java">
+</file>
+<file name="C:\Users\julek\Desktop\Poli\Kompo\Zadania\Projekt\prokom07\Model\src\main\java\sudoku\SudokuField.java">
+</file>
+<file name="C:\Users\julek\Desktop\Poli\Kompo\Zadania\Projekt\prokom07\Model\src\main\java\sudoku\SudokuNotFound.java">
+</file>
+<file name="C:\Users\julek\Desktop\Poli\Kompo\Zadania\Projekt\prokom07\Model\src\main\java\sudoku\SudokuRow.java">
+</file>
+<file name="C:\Users\julek\Desktop\Poli\Kompo\Zadania\Projekt\prokom07\Model\src\main\java\sudoku\SudokuSolver.java">
+</file>
+</checkstyle>

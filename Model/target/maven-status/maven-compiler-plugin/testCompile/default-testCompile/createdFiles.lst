@@ -1,0 +1,5 @@
+sudoku\DifficultLevelTest.class
+sudoku\SudokuRowTest.class
+Test\SudokuBoardTest.class
+sudoku\SudokuColumnTest.class
+sudoku\SudokuBoxTest.class

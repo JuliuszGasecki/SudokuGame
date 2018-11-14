@@ -1,0 +1,337 @@
+143  [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+146  [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+18395 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+18395 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+21480 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+21481 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+130  [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+132  [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+3148 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+3151 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+23:02:44.733 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+23:02:44.736 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+23:02:46.953 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+23:02:46.953 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+23:02:47.115 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+23:02:47.116 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+23:02:47.303 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+23:02:47.303 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+23:02:47.467 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+23:02:47.467 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+23:02:47.617 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+23:02:47.617 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+23:02:47.771 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+23:02:47.771 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+23:02:47.938 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+23:02:47.938 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+2018:06:155:23:03:32.168 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018:06:155:23:03:32.171 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018:06:155:23:03:34.877 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+2018:06:155:23:03:34.877 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+2018-06-155 23:04:06.427 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-155 23:04:06.429 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-155 23:04:08.563 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+2018-06-155 23:04:08.564 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+2018-06-155 23:09:15.527 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-155 23:09:15.529 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-155 23:09:18.387 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+2018-06-155 23:09:18.387 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 00:55:27.627 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 00:55:27.630 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 00:55:29.889 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 00:55:29.889 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 00:55:35.374 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 00:55:35.374 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 01:00:17.754 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:00:17.756 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:00:19.381 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:00:19.381 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:00:20.651 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:00:20.651 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:00:20.817 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:00:20.817 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:00:21.039 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:00:21.039 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:00:21.237 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:00:21.237 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:00:31.440 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:00:31.443 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:00:32.901 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:00:32.901 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:00:38.686 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:00:38.688 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:00:39.565 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:00:39.565 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:01:27.514 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:01:27.517 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:01:28.773 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:01:28.773 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:01:29.474 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:01:29.474 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:02:11.716 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:02:11.719 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:02:12.792 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:02:12.792 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:02:13.471 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:02:13.472 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:02:43.750 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:02:43.754 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:02:44.902 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:02:44.902 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:02:45.562 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:02:45.562 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:02:45.740 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:02:45.740 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:02:45.916 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:02:45.917 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:02:48.103 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 01:02:48.103 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 01:02:48.739 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 01:02:48.739 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 01:02:49.310 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 01:02:49.310 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 01:02:57.218 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 01:02:57.218 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 01:03:21.399 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:03:21.402 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:51:07.456 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:51:07.459 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 01:51:10.046 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 01:51:10.046 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 01:51:10.704 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 01:51:10.704 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 01:51:10.881 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 01:51:10.881 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 01:51:11.061 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 01:51:11.061 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 10:03:47.996 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 10:03:48.001 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 15:25:25.661 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 15:25:25.664 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 15:25:27.427 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 15:25:27.427 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 15:25:29.930 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 15:25:29.930 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+2018-06-156 18:17:48.942 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-156 18:17:48.944 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 18:32:20.358 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+2018-06-157 18:32:20.360 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+2018-06-157 18:32:27.055 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 18:32:27.058 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 18:33:06.378 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 18:33:06.381 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 18:39:54.541 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 18:39:54.544 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 18:43:53.456 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 18:43:53.458 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 18:47:41.812 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 18:47:50.763 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 18:47:50.763 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 18:47:54.319 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 18:47:54.461 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Created table!
+2018-06-157 18:47:54.505 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 18:49:01.123 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 18:49:01.246 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 18:52:08.195 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 18:52:08.493 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 18:53:03.956 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 18:53:04.094 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Table exists. Updating table
+2018-06-157 18:53:04.100 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 18:54:05.314 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 18:54:05.457 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Table exists. Updating table
+2018-06-157 18:54:05.559 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Created table!
+2018-06-157 18:54:05.598 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 19:19:20.348 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 19:19:34.951 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 19:19:34.951 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 19:19:37.338 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 19:19:37.489 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Table exists. Updating table
+2018-06-157 19:19:37.567 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Created table!
+2018-06-157 19:19:40.121 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 19:19:40.125 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Table exists. Updating table
+2018-06-157 19:20:21.540 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 19:20:21.543 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 19:20:23.972 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 19:20:24.104 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Table exists. Updating table
+2018-06-157 19:20:24.176 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Created table!
+2018-06-157 19:21:18.879 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 19:21:18.881 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 19:21:22.571 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 19:21:22.702 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Table exists. Updating table
+2018-06-157 19:21:22.789 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Created table!
+2018-06-157 19:21:22.834 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 19:48:57.127 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 19:48:57.270 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 19:49:26.772 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 19:49:26.894 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Created table!
+2018-06-157 19:49:26.983 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 19:51:21.255 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 19:51:21.455 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Created table!
+2018-06-157 19:51:21.456 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Created table!
+2018-06-157 19:51:21.505 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 19:51:34.157 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 19:51:34.300 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 19:52:25.652 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 19:52:25.800 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 19:56:21.094 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 19:56:21.096 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 19:56:24.633 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 19:56:24.772 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 19:56:24.815 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - org.apache.derby.impl.jdbc.EmbedResultSet42@29c869a7
+2018-06-157 19:56:44.190 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 19:56:44.329 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 19:56:44.370 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - org.apache.derby.impl.jdbc.EmbedResultSet42@6fe18ea4
+2018-06-157 19:58:18.389 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 19:58:18.532 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 19:58:59.522 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 19:58:59.687 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:00:28.032 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:00:28.227 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Created table!
+2018-06-157 20:00:28.269 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Saved SudokuBoard!
+2018-06-157 20:00:28.278 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 20:00:36.489 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:00:36.624 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:01:19.473 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:01:19.616 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:02:15.341 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:02:15.489 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:04:15.221 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:04:15.360 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:11:46.860 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:11:47.068 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:12:41.820 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:12:41.962 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:12:59.153 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:12:59.355 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Created table!
+2018-06-157 20:12:59.393 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Saved SudokuBoard!
+2018-06-157 20:12:59.401 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 20:13:06.184 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:13:06.324 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:13:44.852 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:13:44.997 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:15:24.757 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:15:24.897 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:16:11.677 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:16:11.873 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Created table!
+2018-06-157 20:16:11.912 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Saved SudokuBoard!
+2018-06-157 20:16:11.921 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 20:16:18.601 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:16:18.742 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:17:57.510 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:17:57.514 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:19:40.758 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:19:40.762 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:20:15.572 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:20:15.575 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:21:47.469 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:21:47.684 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Created table!
+2018-06-157 20:21:47.725 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Saved SudokuBoard!
+2018-06-157 20:21:47.733 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 20:21:56.787 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:21:56.791 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:22:19.349 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 20:22:19.351 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 20:22:24.608 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:22:24.810 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Created table!
+2018-06-157 20:22:24.849 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Saved SudokuBoard!
+2018-06-157 20:22:24.857 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 20:22:33.098 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:22:33.101 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:22:50.883 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 20:22:50.883 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 20:23:12.690 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 20:23:12.693 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 20:23:26.316 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:23:26.530 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Created table!
+2018-06-157 20:23:26.571 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Saved SudokuBoard!
+2018-06-157 20:23:26.579 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 20:23:37.736 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:23:37.740 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:25:10.401 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:25:10.406 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:25:15.919 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 20:25:15.919 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 20:25:38.233 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:26:02.976 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 20:26:02.978 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 20:26:14.235 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+2018-06-157 20:26:14.278 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+2018-06-157 20:26:15.787 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:26:15.989 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Created table!
+2018-06-157 20:26:16.032 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Saved SudokuBoard!
+2018-06-157 20:26:16.040 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 20:26:23.906 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:26:23.910 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:26:38.084 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 20:26:38.087 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 20:28:09.478 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:28:09.706 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Created table!
+2018-06-157 20:28:09.747 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Saved SudokuBoard!
+2018-06-157 20:28:09.756 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 20:28:16.967 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:28:16.972 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:33:53.149 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:33:53.153 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:33:53.336 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 20:49:28.689 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:49:28.891 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Created table!
+2018-06-157 20:49:28.930 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Saved SudokuBoard!
+2018-06-157 20:49:28.938 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 20:49:37.539 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 20:49:37.543 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 20:49:37.695 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 21:10:37.610 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 21:10:37.808 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Saved SudokuBoard!
+2018-06-157 21:28:54.156 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 21:28:54.158 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 21:30:37.929 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 21:30:37.932 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 21:34:07.439 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 21:34:07.442 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 21:34:07.598 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 21:36:22.231 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+2018-06-157 21:36:22.233 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+2018-06-157 21:36:24.092 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 21:36:24.294 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Created table!
+2018-06-157 21:36:24.334 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Saved SudokuBoard!
+2018-06-157 21:36:24.342 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 21:43:00.870 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 21:43:00.873 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 21:43:06.911 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 21:43:07.088 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Created table!
+2018-06-157 21:43:07.125 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Saved SudokuBoard!
+2018-06-157 21:43:07.133 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 23:29:22.033 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 23:29:22.273 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Saved SudokuBoard!
+2018-06-157 23:29:22.295 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Saved SudokuBoard!
+2018-06-157 23:29:22.303 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-157 23:29:40.603 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 23:29:40.609 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 23:30:01.026 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 23:30:01.026 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 23:30:37.232 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 23:30:37.232 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-157 23:30:55.153 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-157 23:30:55.157 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-157 23:30:55.342 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-158 08:35:23.580 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-158 08:35:23.584 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-158 08:35:23.757 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-158 08:44:32.301 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-158 08:44:32.304 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-158 08:44:32.462 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-158 08:44:52.594 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+2018-06-158 08:44:52.595 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+2018-06-158 08:45:11.269 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Writing to file
+2018-06-158 08:45:11.269 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Writing to file
+2018-06-158 08:45:13.870 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-158 08:45:13.945 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Saved SudokuBoard!
+2018-06-158 08:45:13.960 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Saved SudokuBoard!
+2018-06-158 08:45:13.968 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-158 09:54:05.411 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Database connection!
+2018-06-158 09:54:05.414 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Reading from table
+2018-06-158 09:54:05.568 [JavaFX Application Thread] INFO  sudoku.JdbcSudokuBoardDao - Closed table!
+2018-06-158 12:58:23.108 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-158 12:58:23.114 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
+2018-06-158 12:58:41.244 [JavaFX Application Thread] INFO  sudoku.FileSudokuBoardDao - Reading file
+2018-06-158 12:58:41.247 [JavaFX Application Thread] DEBUG sudoku.FileSudokuBoardDao - Reading file
